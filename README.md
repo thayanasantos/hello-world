@@ -1,2 +1,2 @@
 # hello-world
-inicio da programação
+tentando entender como funcionaa isso aqui.
